@@ -2,7 +2,7 @@
 
 
 
-# Likhith Adithya
+# LIKHITH ADITHYA
 
 Data Science student specializing in Machine Learning, AI, and NLP.  
 Focused on building practical ML workflows, data-driven applications, and clean analytical pipelines.  
