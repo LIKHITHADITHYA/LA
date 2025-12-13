@@ -46,7 +46,7 @@ Smart India Hackathon documentation and implementation.
 
 ---
 
-## Contact
-Email: likhithadithya@gmail.com  
-LinkedIn: linkedin.com/in/likhith-adithya  
+
+Contact
+LinkedIn: linkedin.com/in/LA4
 GitHub: github.com/LIKHITHADITHYA
