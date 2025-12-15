@@ -1,52 +1,50 @@
+# Likhith Adithya
 
+**Data Science & Machine Learning Specialist**
 
-
-
-# LIKHITH ADITHYA
-
-Data Science student specializing in Machine Learning, AI, and NLP.  
-Focused on building practical ML workflows, data-driven applications, and clean analytical pipelines.  
-Active learner through Google, IBM, Coursera, NVIDIA Developer Programs, and IEEE communities.
+Data Science student specializing in Machine Learning, AI, and Natural Language Processing.  Focused on building practical ML workflows, data-driven applications, and clean analytical pipelines.  Active learner through Google, IBM, Coursera, NVIDIA Developer Programs, and IEEE communities.
 
 ---
 
-## Areas of Work
-- Machine Learning & Predictive Modeling  
-- Applied Data Science & Feature Engineering  
-- NLP workflows  
-- Python development  
-- Streamlit dashboards & data applications  
+## 🎯 Areas of Expertise
+
+- **Machine Learning & Predictive Modeling** – End-to-end ML pipeline development
+- **Applied Data Science & Feature Engineering** – Data preprocessing and optimization
+- **Natural Language Processing** – Text processing and embeddings
+- **Python Development** – Clean, scalable code
+- **Data Visualization & Applications** – Streamlit dashboards and interactive tools
 
 ---
 
-## Key Projects
-### Stock Forecasting System  
-End-to-end ML workflow for stock trend prediction.
+## 📊 Key Projects
 
-### Data Science Utilities  
-Notebook and script collection for EDA, preprocessing, and model evaluation.
+### Stock Forecasting System
+End-to-end machine learning workflow for stock trend prediction using time-series analysis and predictive models.
 
-### ML/NLP Learning Notebooks  
-Model training, experiments, feature engineering, and text processing.
 
-### Streamlit Dashboards  
-Interactive analytics and ML model interfaces.
 
-### SIH Project Repository  
-Smart India Hackathon documentation and implementation.
+### Smart India Hackathon (SIH) Project
+Documentation and implementation of innovative solutions developed during the Smart India Hackathon competition.
 
 ---
 
-## Skills
-**Programming:** Python  
-**ML Stack:** Scikit-Learn, Pandas, NumPy, Matplotlib  
-**AI/NLP:** Text processing, embeddings, LLM experimentation  
-**Tools:** Git, GitHub, Jupyter, Streamlit  
-**Communities:** IEEE, NVIDIA Developer  
+## 💻 Technical Skills
+
+| Category | Technologies |
+|----------|---------------|
+| **Programming** | Python |
+| **ML/Data Stack** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
+| **AI & NLP** | Text Processing, Embeddings, LLM Experimentation |
+| **Tools & Platforms** | Git, GitHub, Jupyter, Streamlit, Google Colab |
+| **Communities** | IEEE, NVIDIA Developer Program |
 
 ---
 
+## 📬 Connect With Me
 
-Contact
-LinkedIn: linkedin.com/in/LA4
-GitHub: github.com/LIKHITHADITHYA
+- **LinkedIn:** [linkedin.com/in/LA4](https://linkedin.com/in/LA4)
+- **GitHub:** [github.com/LIKHITHADITHYA](https://github.com/LIKHITHADITHYA)
+
+---
+
+*Last updated: December 2025*
