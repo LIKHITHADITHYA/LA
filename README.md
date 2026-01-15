@@ -1,6 +1,6 @@
-# Likhith Adithya
+# LIKHITH ADITHYA
 
-**Data Science & Machine Learning Specialist**
+**AI ENGINEERING**
 
 Data Science student specializing in Machine Learning, AI, and Natural Language Processing.  Focused on building practical ML workflows, data-driven applications, and clean analytical pipelines.  Active learner through Google, IBM, Coursera, NVIDIA Developer Programs, and IEEE communities.
 
@@ -8,10 +8,11 @@ Data Science student specializing in Machine Learning, AI, and Natural Language 
 
 ## 🎯 Areas of Expertise
 
+- **Prompt engineering** -Google&IBM
+- **Natural Language Processing** – Text processing and embeddings
+- - **Python Development** – Clean, scalable code
 - **Machine Learning & Predictive Modeling** – End-to-end ML pipeline development
 - **Applied Data Science & Feature Engineering** – Data preprocessing and optimization
-- **Natural Language Processing** – Text processing and embeddings
-- **Python Development** – Clean, scalable code
 - **Data Visualization & Applications** – Streamlit dashboards and interactive tools
 
 ---
@@ -19,9 +20,7 @@ Data Science student specializing in Machine Learning, AI, and Natural Language 
 ## 📊 Key Projects
 
 ### Stock Forecasting System
-End-to-end machine learning workflow for stock trend prediction using time-series analysis and predictive models.
-
-
+End-to-end machine learning workflow for stock trend prediction using time-series analysis and predictive models
 
 ### Smart India Hackathon (SIH) Project
 Documentation and implementation of innovative solutions developed during the Smart India Hackathon competition.
@@ -34,7 +33,7 @@ Documentation and implementation of innovative solutions developed during the Sm
 |----------|---------------|
 | **Programming** | Python |
 | **ML/Data Stack** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn |
-| **AI & NLP** | Text Processing, Embeddings, LLM Experimentation |
+| **AI & NLP** | Text Processing, Embeddings, LLM Experimentation , AI prompting |
 | **Tools & Platforms** | Git, GitHub, Jupyter, Streamlit, Google Colab |
 | **Communities** | IEEE, NVIDIA Developer Program |
 
