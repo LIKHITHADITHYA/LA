@@ -10,7 +10,7 @@ Data Science student specializing in Machine Learning, AI, and Natural Language 
 
 - **Prompt engineering** -Google&IBM
 - **Natural Language Processing** – Text processing and embeddings
-- - **Python Development** – Clean, scalable code
+- **Python Development** – Clean, scalable code
 - **Machine Learning & Predictive Modeling** – End-to-end ML pipeline development
 - **Applied Data Science & Feature Engineering** – Data preprocessing and optimization
 - **Data Visualization & Applications** – Streamlit dashboards and interactive tools
